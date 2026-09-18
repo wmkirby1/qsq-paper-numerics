@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/qsq/__init__.py
+src/qsq/figures.py
+src/qsq/model.py
+src/qsq/observables.py
+src/qsq/quadrature.py
+src/qsq_paper_numerics.egg-info/PKG-INFO
+src/qsq_paper_numerics.egg-info/SOURCES.txt
+src/qsq_paper_numerics.egg-info/dependency_links.txt
+src/qsq_paper_numerics.egg-info/requires.txt
+src/qsq_paper_numerics.egg-info/top_level.txt
