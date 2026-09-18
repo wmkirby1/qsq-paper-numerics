@@ -2,6 +2,8 @@
 
 Reproducible numerical calculations for [Quantum Krylov Algorithm for Szegő Quadrature](https://arxiv.org/abs/2509.19195).
 
+**Cite as:** William Kirby, Yizhi Shen, Daan Camps, Anirban Chowdhury, Katherine Klymko, and Roel Van Beeumen, "Quantum Krylov Algorithm for Szegő Quadrature," arxiv preprint, arxiv:2509.19195 (2025).
+
 ## Setup
 
 Python 3.10 or newer is required. Install the package and its dependencies from this directory:
